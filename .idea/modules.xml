@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank_Application/Bank_Application.iml" filepath="$PROJECT_DIR$/Bank_Application/Bank_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class day -10th/Class day -10th.iml" filepath="$PROJECT_DIR$/Class day -10th/Class day -10th.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Even and Odd/Even and Odd.iml" filepath="$PROJECT_DIR$/Even and Odd/Even and Odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find Greatest Number/Find Greatest Number.iml" filepath="$PROJECT_DIR$/Find Greatest Number/Find Greatest Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA CLASS CODES-1.iml" filepath="$PROJECT_DIR$/JAVA CLASS CODES-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Positive Negative  and Zero/Positive Negative  and Zero.iml" filepath="$PROJECT_DIR$/Positive Negative  and Zero/Positive Negative  and Zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student Marks System/Student Marks System.iml" filepath="$PROJECT_DIR$/Student Marks System/Student Marks System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/To Find Fabonacci/To Find Fabonacci.iml" filepath="$PROJECT_DIR$/To Find Fabonacci/To Find Fabonacci.iml" />
     </modules>
   </component>
 </project>
